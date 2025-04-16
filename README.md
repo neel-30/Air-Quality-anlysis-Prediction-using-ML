@@ -1,5 +1,5 @@
 # Air-Quality-anlysis-Prediction-using-ML
-#Project Objectives
+# Project Objectives
 -->Predict the Air Quality Index (AQI) based on pollutant levels.
 
 -->Apply and compare multiple regression algorithms to determine the best-performing model.
