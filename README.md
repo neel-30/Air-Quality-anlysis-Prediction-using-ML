@@ -8,7 +8,7 @@
 
 -->Visualize pollutant distribution, trends, and AQI predictions for better environmental insight.
 
-#Dataset Overview
+# Dataset Overview
 Total Records: 29,531 rows × 16 columns
 
 Target Variable: AQI
@@ -23,12 +23,12 @@ RSPM (Respirable Suspended Particulate Matter)
 
 SPM (Suspended Particulate Matter)
 
-#Data Split
+# Data Split
 Training Set: 70%
 
 Testing Set: 30%
 
- #Machine Learning Models Implemented
+ # Machine Learning Models Implemented
 The following models were trained and evaluated:
 
 Linear Regression
