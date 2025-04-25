@@ -8,7 +8,7 @@
 
 -->Visualize pollutant distribution, trends, and AQI predictions for better environmental insight.
 
-# Dataset Overview
+# Dataset :
 Total Records: 29,531 rows × 16 columns
 
 Target Variable: AQI
@@ -37,7 +37,7 @@ Lasso Regression
 
 Decision Tree Regressor
 
-Random Forest Regressor ✅ (Best Performance)
+Random Forest Regressor  
 
 Best Performing Model: Random Forest
 After comparing all models using R² Score, MAE, and RMSE, the Random Forest Regressor was found to be the most accurate and reliable for predicting AQI. Its ability to handle non-linear relationships and reduce overfitting contributed to its success in this project.
